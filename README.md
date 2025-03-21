@@ -4,6 +4,8 @@
 
 Olá 👋🏽, eu sou o Felipe Rottner Rodrigues. Sou um estudante de tecnologia, com 17 anos e natural de São Paulo. Atualmente, estou cursando Desenvolvimento de Sistemas no Senai Suiço-Brasileira. Minha paixão por tecnologia me motiva a aprender coisas novas todos os dias. Tenho um desejo de vira um Programdor Profissional.
 
+---
+###🌐Redes Sociais
 <p align="left">
     <!-- GitHub Stars Button -->
     <a href="https://github.com/feliperottner?tab=repositories&sort=stargazers">
