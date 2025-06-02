@@ -1,18 +1,18 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B000FF&height=150&section=header&text=Venham+me+Conhecer!&fontSize=35&fontColor=F0F0F0&fontAlignY=30"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B000FF&height=150&section=header&text=Explorando+o+universo+da+programação!&fontSize=35&fontColor=F0F0F0&fontAlignY=30"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=B000FF&size=35&center=true&vCenter=true&width=1000&lines=Prazer+em+conhecê-los;Meu+nome+é+Felipe+Rottner+Rodrigues;Tenho+17+anos;E;Estou+cursando+Desenvolvimento+de+Sistemas;No+Senai+Suiço-Brasileira!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=B000FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Felipe!;Explorador+de+conhecimento;"/>
 </div>
 
 <hr>
 
-<h2>👨🏽‍💻 Sobre mim</h2>
+<h2>🧑‍🚀 Quem sou eu</h2>
 
 <p>🌍 Sou um estudante de tecnologia, com <strong>17 anos</strong> e natural de <strong>São Paulo</strong>. Atualmente, estou cursando <strong>Desenvolvimento de Sistemas</strong> no <strong>Senai Suiço-Brasileira</strong>.</p>
 
-<p>🚀 Minha paixão por tecnologia me motiva a aprender coisas novas todos os dias. Tenho o desejo de me tornar um <strong>Programador Back-end Profissional</strong>, atuando com excelência e contribuindo para o desenvolvimento de soluções inovadoras.</p>
+<p>🚀 Minha paixão por tecnologia me motiva a aprender coisas novas. Tenho o desejo de me tornar um <strong>Programador Back-end Profissional</strong>, atuando com excelência e contribuindo para o desenvolvimento de soluções inovadoras.</p>
 
 <p>🎯 Estou sempre em busca de novos desafios, aprendizados e oportunidades para crescer e construir soluções tecnológicas de impacto!</p>
 
@@ -42,7 +42,6 @@
   <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="40" height="40">
 </p>
 
-
 <hr>
 
 <h2>📊 Estatísticas do GitHub</h2>
@@ -55,13 +54,22 @@
 
 <hr>
 
+<h2>🎯 Atualmente focado em:</h2>
+<ul>
+  <li>Aprofundar conhecimentos em Java e Spring Boot</li>
+  <li>Melhorar habilidades com MySQL</li>
+  <li>Explorar padrões de projeto</li>
+</ul>
+
+<hr>
+
 <h2>📞 Contato</h2>
 <p align="center">
   <a href="https://www.instagram.com/feliperottner_">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" width="40" height="40">
   </a>
     
-  <a href="https://mailto:feliperottnerrodrigues@gmail.com">
+  <a href="mailto:feliperottnerrodrigues@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" width="40" height="40">
   </a>
   
@@ -71,6 +79,14 @@
 </p>
 
 <hr>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</div>
+
+<p align="center"><i>“O sucesso é a soma de pequenos esforços repetidos diariamente”</i></p>
+
+<p align="center">Bye Bye👋🏽</p>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B000FF&height=120&section=footer"/>
