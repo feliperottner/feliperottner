@@ -39,7 +39,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="40" height="40">
+  <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="40" height="40">
 </p>
+
 
 <hr>
 
