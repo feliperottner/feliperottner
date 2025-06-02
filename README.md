@@ -63,7 +63,7 @@
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" width="40" height="40">
   </a>
   
-  <a href="https://www.linkedin.com/in/felipe-rottner-rodrigues-b13625319">
+  <a href="https://www.linkedin.com/in/feliperottner">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="40" height="40">
   </a>
 </p>
