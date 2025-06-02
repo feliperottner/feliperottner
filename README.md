@@ -57,7 +57,7 @@
 <h2>🎯 Atualmente focado em:</h2>
 <ul>
   <li>Aprofundar conhecimentos em Java e Spring Boot</li>
-  <li>Melhorar habilidades com MySQL</li>
+  <li>Melhorar habilidades com MongoDB e MySQL</li>
   <li>Explorar padrões de projeto</li>
 </ul>
 
