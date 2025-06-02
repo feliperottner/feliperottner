@@ -59,7 +59,7 @@
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" width="40" height="40">
   </a>
     
-  <a href="mailto:feliperottnerrodrigues@gmail.com">
+  <a href="https://mailto:feliperottnerrodrigues@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" width="40" height="40">
   </a>
   
