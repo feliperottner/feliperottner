@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B000FF&height=150&section=header&text=Explorando+o+universo+da+programação!&fontSize=35&fontColor=F0F0F0&fontAlignY=30"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B000FF&height=150&section=header&text=Meu+universo+da+programação!&fontSize=35&fontColor=F0F0F0&fontAlignY=30"/>
 </div>
 
 <div align="center">
@@ -35,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
 </p>
 
-<h3 align="center">Ferramentas & DevOps</h3>
+<h3 align="center">Ferramentas</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="40" height="40">
@@ -85,8 +85,6 @@
 </div>
 
 <p align="center"><i>“O sucesso é a soma de pequenos esforços repetidos diariamente”</i></p>
-
-<p align="center">Bye Bye👋🏽</p>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B000FF&height=120&section=footer"/>
