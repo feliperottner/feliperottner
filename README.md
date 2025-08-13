@@ -1,20 +1,20 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B000FF&height=150&section=header&text=Meu+universo+da+programação!&fontSize=35&fontColor=F0F0F0&fontAlignY=30"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B000FF&height=150&section=header&text=Bem+Vindos!&fontSize=35&fontColor=F0F0F0&fontAlignY=30"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=B000FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Felipe!;Explorador+de+conhecimento!;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=B000FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Felipe!;A+baixo+está+um+pouco+do+meu+conhecimento!;"/>
 </div>
 
 <hr>
 
-<h2>🧑‍🚀 Quem sou eu</h2>
+<h2>👨🏽‍🦱 Quem sou eu</h2>
 
-<p>🌍 Sou um estudante de tecnologia, com <strong>17 anos</strong> e natural de <strong>São Paulo</strong>. Atualmente, estou cursando <strong>Desenvolvimento de Sistemas</strong> no <strong>Senai Suiço-Brasileira</strong>.</p>
+<p>Sou um estudante de tecnologia, com <strong>17 anos</strong> e natural de <strong>São Paulo</strong>. Atualmente, estou cursando <strong>Desenvolvimento de Sistemas</strong> no <strong>Senai Suiço-Brasileira</strong>.</p>
 
-<p>🚀 Minha paixão por tecnologia me motiva a aprender coisas novas. Tenho o desejo de me tornar um <strong>Programador Back-end Profissional</strong>, atuando com excelência e contribuindo para o desenvolvimento de soluções inovadoras.</p>
+<p>Tenho uma grande paixão por tecnologia, e isso me motiva a aprender coisas novas. Tenho o desejo de me tornar um <strong>Programador Back-end Profissional</strong>, atuando com excelência e contribuindo para o desenvolvimento de soluções inovadoras.</p>
 
-<p>🎯 Estou sempre em busca de novos desafios, aprendizados e oportunidades para crescer e construir soluções tecnológicas de impacto!</p>
+<p>Estou sempre em busca de novos desafios, aprendizados, networking e oportunidades para crescer profissionalmente!</p>
 
 <hr>
 
@@ -79,12 +79,6 @@
 </p>
 
 <hr>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</div>
-
-<p align="center"><i>“O sucesso é a soma de pequenos esforços repetidos diariamente”</i></p>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=B000FF&height=120&section=footer"/>
