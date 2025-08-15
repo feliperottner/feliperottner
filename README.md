@@ -8,17 +8,17 @@
 
 <hr>
 
-<h2>👨🏽‍🦱 Quem sou eu</h2>
+<h2>Quem sou eu</h2>
 
-<p>Sou um estudante de tecnologia, com <strong>17 anos</strong> e natural de <strong>São Paulo</strong>. Atualmente, estou cursando <strong>Desenvolvimento de Sistemas</strong> no <strong>Senai Suiço-Brasileira</strong>.</p>
+<p>Sou um estudante de Desenvolvimento de Sistemas, com <strong>17 anos</strong> e natural de <strong>São Paulo</strong>. Atualmente, estou cursando <strong>Desenvolvimento de Sistemas</strong> no <strong>Senai Suiço-Brasileira</strong>.</p>
 
-<p>Tenho uma grande paixão por tecnologia, e isso me motiva a aprender coisas novas. Tenho o desejo de me tornar um <strong>Programador Back-end Profissional</strong>, atuando com excelência e contribuindo para o desenvolvimento de soluções inovadoras.</p>
+<p>Tenho o desejo de me tornar um <strong>Programador Back-end Profissional</strong>, atuando com excelência e contribuindo para o desenvolvimento de soluções.</p>
 
 <p>Estou sempre em busca de novos desafios, aprendizados, networking e oportunidades para crescer profissionalmente!</p>
 
 <hr>
 
-<h2>🛠️ Tecnologias & Ferramentas</h2>
+<h2>Tecnologias & Ferramentas</h2>
 
 <h3 align="center">Backend</h3>
 <p align="center">
@@ -44,7 +44,7 @@
 
 <hr>
 
-<h2>📊 Estatísticas do GitHub</h2>
+<h2>Estatísticas do GitHub</h2>
 
 <p align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=feliperottner&show_icons=true&count_private=true&hide_border=true&title_color=B000FF&icon_color=B000FF&text_color=EAEAEA&bg_color=0D0D0D"/>
@@ -54,7 +54,7 @@
 
 <hr>
 
-<h2>🎯 Atualmente focado em:</h2>
+<h2>Atualmente focado em:</h2>
 <ul>
   <li>Aprofundar conhecimentos em Java e Spring Boot</li>
   <li>Melhorar habilidades com MongoDB e MySQL</li>
@@ -63,12 +63,8 @@
 
 <hr>
 
-<h2>📞 Contato</h2>
+<h2>Contato</h2>
 <p align="center">
-  <a href="https://www.instagram.com/feliperottner_">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" width="40" height="40">
-  </a>
-    
   <a href="mailto:feliperottnerrodrigues@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" width="40" height="40">
   </a>
