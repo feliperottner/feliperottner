@@ -14,12 +14,12 @@
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,js&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,python,nodejs,js&theme=dark"/>
 </p>
 
 <h3 align="center">Front-end</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,figma&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark"/>
 </p>
 
 <h3 align="center">Banco de Dados</h3>
@@ -29,23 +29,29 @@
 
 <h3 align="center">Ferramentas</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,spring,figma&theme=dark"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="40" height="40">
 </p>
 
 <h2>Estatísticas de Código</h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=feliperottner&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=EAEAEA&bg_color=0D0D0D&layout=compact" alt="Estatísticas do GitHub" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperottner&layout=compact&hide_border=true&title_color=007BFF&text_color=EAEAEA&bg_color=0D0D0D" alt="Top Linguagens" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feliperottner&theme=aura&hide_border=false&include_all_commits=true&count_private=true" style="margin: 10px;" />
+  
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=feliperottner&theme=aura&hide_border=false" style="margin: 10px;" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperottner&theme=aura&card_width=600&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="margin-top: 15px;" />
+</p>
+
 
 <h2>Contato</h2>
 <p align="center">
   <a href="mailto:feliperottnerrodrigues@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" width="40" height="40">
   </a>
-    
+    
   <a href="https://www.linkedin.com/in/feliperottner">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="40" height="40">
   </a>
