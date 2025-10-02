@@ -38,7 +38,6 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=feliperottner&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=EAEAEA&bg_color=0D0D0D&layout=compact" alt="Estatísticas do GitHub" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperottner&layout=compact&hide_border=true&title_color=007BFF&text_color=EAEAEA&bg_color=0D0D0D" alt="Top Linguagens" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=feliperottner&theme=react-dark&hide_border=true&point=007BFF&point_ring=007BFF&bg_color=0D0D0D&color=EAEAEA" alt="Gráfico de Atividade" />
 </p>
 
 <h2>Contato</h2>
