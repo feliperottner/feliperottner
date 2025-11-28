@@ -4,11 +4,11 @@
 
 <h2>Sobre Mim</h2>
 
-<p>Tenho <strong>17 anos</strong> e atualmente estudo <strong> Desenvolvimento de Sistemas</strong> na escola Senai Suiço Brasileira em São Paulo. Minha jornada na programação começou lá, onde estou construindo uma base sólida em conceitos de engenharia de software e práticas de desenvolvimento.</p>
+<p>Sou desenvolvedor back-end em formação. daqueles que curtem entender a lógica por trás das coisas. Meu foco é Java com Spring Boot, meu método de trabalho é  montar arquiteturas limpas, organizar camadas, deixar tudo redondo e escrever código que faça sentido pra mim e pra quem for manter depois. Também tenho experiência com JavaScript, React, HTML, CSS, MySQL e MongoDB, sempre mantendo o back-end rodando liso e o ambiente organizado, porque bagunça só atrapalha o fluxo. </p>
 
-<p>Meu objetivo de carreira é me tornar um Programador Back-end, capaz de arquitetar e entregar soluções robustas, eficientes e escaláveis. Estou me aprofundando ativamente em back-end e estruturas, e no ecossistema Spring Boot para desenvolvimento de APIs RESTful, aplicando os princípios da Programação Orientada a Objetos (POO) e explorando ativamente padrões de projeto.</p>
+<p>Tenho <strong>17 anos</strong> e estou no 4º semestre de Desenvolvimento de Sistemas na escola Senai Suiço-Brasileira, onde venho construindo uma base teórica forte que já mudou minha forma de programar: hoje penso melhor em arquitetura, entendo o porquê das escolhas técnicas e não só “como faz”. Tô mergulhando fundo no ecossistema Spring Boot, APIs RESTful, padrões de projeto e princípios de POO pra entregar soluções robustas, eficientes e escaláveis.</p>
 
-<p>Sou uma pessoa que valoriza a proatividade, a colaboração em equipe e o aprendizado contínuo. Estou à procura de novos desafios e de oportunidades de networking para acelerar meu crescimento e contribuir efetivamente em um ambiente profissional.</p>
+<p>Levo evolução contínua a sério, testo coisa nova, reviso o que já sei e mantenho a régua alta. Gosto de ambientes leves, comunicação simples e colaboração de verdade, onde todo mundo cresce junto. Sou proativo, focado em qualidade e consistência, e tô sempre buscando desafios e oportunidades pra acelerar meu crescimento. Meu objetivo? Me solidificar como desenvolvedor back-end e fazer parte de projetos que me façam evoluir.</p>
 
 <h2>Tecnologias & Ferramentas</h2>
 
